@@ -1,0 +1,10 @@
+imageio
+matplotlib
+numpy
+pillow
+scipy
+tensorboard
+tensorboard-plugin-wit
+tensorflow
+tensorflow-estimator
+tqdm
